@@ -1,3 +1,3 @@
 <?php get_header(); ?>
-		<?php print 'FrontPage'; ?>
+		<?php print 'This is the FrontPage'; ?>
 <?php get_footer(); ?>
